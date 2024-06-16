@@ -1,2 +1,2 @@
 # RentACarSystem
-This is a simple car rental system that run in the console.
+This is a simple car rental system that runs in the console.
